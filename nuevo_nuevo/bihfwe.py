@@ -7,7 +7,6 @@ def uno_cero(num,exp):
         else:
             return num%10**exp + uno_cero(num//10,exp+1)
 
+print("adios")
 
-print("hola")
-
-
+git 
